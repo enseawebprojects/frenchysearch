@@ -15,6 +15,6 @@ The system must provide :
 
 ## Resources
 
-https://www.google.fr/?gws_rd=ssl
-https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+* https://www.google.fr/?gws_rd=ssl
+* https://en.wikipedia.org/wiki/Tf%E2%80%93idf
 
